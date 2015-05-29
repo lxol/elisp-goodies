@@ -1,0 +1,5 @@
+(:name elisp-goodies
+       :description "Miscellaneous elisp snippets"
+       :type github
+       :pkgname "lxol/elisp-goodies"
+       :features elisp-goodies)
